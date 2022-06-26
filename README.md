@@ -1,3 +1,3 @@
 # RNstart
  
-学习react native
+学习React Native
