@@ -36,7 +36,7 @@ const App = () => {
           <Text>hello react Native</Text>
         </View>
         <View>
-          <Text>测试文本</Text>
+          <Text>测试文本更新于7-10 16:00</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
